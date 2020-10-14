@@ -1,21 +1,21 @@
 #E#EXTM3U
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="CINE +" tvg-logo="" group-title="",CINE +
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="CINE +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/1024px-CINE%2B_-_LOGO.png" group-title="",CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="SBT" tvg-logo="" group-title="",SBT
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="GLOBO" tvg-logo="" group-title="",GLOBO
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="",GLOBO
 http://201.87.232.214:25461/marcondes/101010/13838
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="GLOBO HD" tvg-logo="" group-title="",GLOBO HD
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="",GLOBO HD
 http://tv.factoryiptv.com:80/cGv5KBavr/controliptv/36968
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="GLOBO SP HD" tvg-logo="" group-title="",GLOBO SP HD
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="",GLOBO SP HD
 http://pfsv.io:80/89864736/9340/394
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="HBO2" tvg-logo="" group-title="",HBO2
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="SBT" tvg-logo="" group-title="",SBT
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="",SBT
 http://cloud-nany.cc:80/DianaSouzaMacielMensal/live742892749/3587
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="RECORD HD" tvg-logo="" group-title="",RECORD HD
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="RECORD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="",RECORD HD
 http://srvx.io:80/Claudiu/C23061990/72595
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="BAND HD" tvg-logo="" group-title="",BAND HD
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="BAND HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="",BAND HD
 http://grtsvk.life:8080/a103mhm50/vsxgnx4en/23365
-#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="BAND NEWS" tvg-logo="" group-title="",BAND NEWS
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="",BAND NEWS
 http://cloud-nany.cc:80/juniorsaraiva/112211/8136
