@@ -28,51 +28,31 @@ http://interlatins.com:48000/Nestor64/BpjR9mQMvH/31618
 http://189.91.128.146:5555/udp/227.10.20.94:1234
 
 
-#EXTM3U
+
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8
+#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com Rede Super (Brazil)
+https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com Transamerica TV Brazil
+http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com A & E
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101083
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com A TURMA DO PATETA
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38275
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com A&E
-http://dinamikiptv.com:7777/adalet/adalet123/50602
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com A&E HD
-http://dinamikiptv.com:7777/adalet/adalet123/50373
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com A&E HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13417.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com A&E HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/43993
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com A&E SD
-http://dinamikiptv.com:7777/adalet/adalet123/50374
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ALADDIN
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37827
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ANIMANIACS
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37863
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Animal Planet HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13643
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Animal Planet SD
-http://dinamikiptv.com:7777/adalet/adalet123/50376
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Arte1 HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6147
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Axn SD
-http://dinamikiptv.com:7777/adalet/adalet123/50378
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com BAND HD
-http://uruguayiptv.com:25461/12345678/12345678/11313
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com BLINDSPOT
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37218
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com BOOMERANG HD
-http://uruguayiptv.com:25461/12345678/12345678/11317
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com BOOMERANG HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11317
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com BROOKLYN NINE-NINE
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37219
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Baby TV SD
-http://dinamikiptv.com:7777/adalet/adalet123/50380
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Band Campinas HD
-http://dinamikiptv.com:7777/adalet/adalet123/50381
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Band News SD
-http://dinamikiptv.com:7777/adalet/adalet123/50384
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Band SD
-http://dinamikiptv.com:7777/adalet/adalet123/50385
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Bis SD
-http://dinamikiptv.com:7777/adalet/adalet123/50390
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Band HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101091
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Boomerang SD
+http://dinamikiptv.com:7777/adalet/adalet123/50392
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Brasil IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8&checkedby
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Brasil IPTV_27
@@ -81,92 +61,54 @@ http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8&chec
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37861
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com CARMEN SANDIEGO
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37212
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com CARTOON NETWORK HD
-http://uruguayiptv.com:25461/12345678/12345678/11320
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com CASTLEVANIA
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38347
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com CAVERNA DO DRAGÃO
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37211
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com CINEMAX HD
-http://uruguayiptv.com:25461/12345678/12345678/11321
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com COMBATE HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13424.m3u8
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com COMBATE [2k]
 http://dinamikiptv.com:7777/adalet/adalet123/50610
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com COMEDY CENTRAL HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101066
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Canal Ricos
 https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Canal Sony HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13636
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Canção Nova
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Cinemax HD VIP BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16520
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Cartoon Network SD
+http://dinamikiptv.com:7777/adalet/adalet123/50396
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Cinemax SD
 http://dinamikiptv.com:7777/adalet/adalet123/50398
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Cnn Internacional SD
 http://dinamikiptv.com:7777/adalet/adalet123/50399
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Combate HD
-http://dinamikiptv.com:7777/adalet/adalet123/50400
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Combate SD
 http://dinamikiptv.com:7777/adalet/adalet123/50401
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DESAFIO EM DOSE DUPLA
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38273
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY CH. HD
-http://uruguayiptv.com:25461/12345678/12345678/11324
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY CH. HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11324
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY CHANNEL
-http://dinamikiptv.com:7777/adalet/adalet123/50612
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY H&H
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13429.m3u8
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY CIVILIZATION HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101064
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY KIDS HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13430.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY SCIENCE HD
-http://uruguayiptv.com:25461/12345678/12345678/11329
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY SCIENCE HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11329
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY TURBO HD
-http://uruguayiptv.com:25461/12345678/12345678/11331
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY TURBO HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11331
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101061
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY WORLD HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101056
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISNEY CHANNEL HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11333
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISNEY CHANNEL HD
-http://uruguayiptv.com:25461/12345678/12345678/11333
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101054
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com DISNEY CHANNEL [2K]
 http://dinamikiptv.com:7777/adalet/adalet123/50615
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Channel HD
 http://dinamikiptv.com:7777/adalet/adalet123/50404
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Channel HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16517
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Channel SD
-http://dinamikiptv.com:7777/adalet/adalet123/50405
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Civilization HD
 http://dinamikiptv.com:7777/adalet/adalet123/50406
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery H&H HD
-http://dinamikiptv.com:7777/adalet/adalet123/50407
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Home & Health BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6117
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Kids SD
-http://dinamikiptv.com:7777/adalet/adalet123/50410
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Science HD VIP BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16512
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Theater HD
-http://dinamikiptv.com:7777/adalet/adalet123/50412
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Turbo HD
-http://dinamikiptv.com:7777/adalet/adalet123/50413
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Turbo HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16510
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery Turbo SD
-http://dinamikiptv.com:7777/adalet/adalet123/50414
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery H&H
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101063
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Discovery H&H SD
+http://dinamikiptv.com:7777/adalet/adalet123/50408
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Disney
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101055
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Disney Channel HD
 http://dinamikiptv.com:7777/adalet/adalet123/50416
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Disney Channel SD
 http://dinamikiptv.com:7777/adalet/adalet123/50417
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Disney Junior SD
-http://dinamikiptv.com:7777/adalet/adalet123/50419
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Disney Xd HD
 http://dinamikiptv.com:7777/adalet/adalet123/50420
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Disney Xd SD
@@ -175,58 +117,14 @@ http://dinamikiptv.com:7777/adalet/adalet123/50421
 http://dinamikiptv.com:7777/adalet/adalet123/50423
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ED STAFFORD
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38257
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7357
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN HD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/17063
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN 2
 http://dinamikiptv.com:7777/adalet/adalet123/50617
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN 2 HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44056
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16502
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN Brasil
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5328
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN Brasil
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44081
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN Brasil HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44057
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN Brasil HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13633
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN Extra
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44082
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN HD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5327
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13634
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN [2k]
-http://dinamikiptv.com:7777/adalet/adalet123/50619
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com EpTV Ribeirao Preto HD
-http://dinamikiptv.com:7777/adalet/adalet123/50424
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Espn 2 HD
-http://dinamikiptv.com:7777/adalet/adalet123/50425
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Espn HD
-http://dinamikiptv.com:7777/adalet/adalet123/50428
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Espn SD
-http://dinamikiptv.com:7777/adalet/adalet123/50429
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com ESPN BRASIL HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101046
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com FEAR WALKING DEAD
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37217
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com FOX HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13434.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com FOX PREMIUM 1 [2K]
-http://dinamikiptv.com:7777/adalet/adalet123/50622
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com FOX PREMIUN HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13435.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com FUTURA HD
-http://uruguayiptv.com:25461/12345678/12345678/11345
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Fish TV
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44084
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Fish TV SD
-http://dinamikiptv.com:7777/adalet/adalet123/50430
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Fox HD
-http://dinamikiptv.com:7777/adalet/adalet123/50433
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Fox Life HD
-http://dinamikiptv.com:7777/adalet/adalet123/50435
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com FOOD NETWORK
+http://dinamikiptv.com:7777/adalet/adalet123/50620
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Fox Life SD
 http://dinamikiptv.com:7777/adalet/adalet123/50437
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Fx SD
@@ -235,166 +133,58 @@ http://dinamikiptv.com:7777/adalet/adalet123/50447
 http://dinamikiptv.com:7777/adalet/adalet123/50626
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com GLOBO SP [2K]
 http://dinamikiptv.com:7777/adalet/adalet123/50628
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com GNT HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/10233
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo Brasilia HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44021
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com GNT
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101024
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo Bahia
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101035
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo Manaus HD
 http://dinamikiptv.com:7777/adalet/adalet123/50449
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo News HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16494
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo RJ HD
-http://dinamikiptv.com:7777/adalet/adalet123/50455
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo SP HD
-http://dinamikiptv.com:7777/adalet/adalet123/50456
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo SP HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679746
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo TV BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6125
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo TV Sergipe HD
-http://dinamikiptv.com:7777/adalet/adalet123/50457
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Gloob HD
-http://dinamikiptv.com:7777/adalet/adalet123/50458
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Gloobinho SD
-http://dinamikiptv.com:7777/adalet/adalet123/50461
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Gnt HD
-http://dinamikiptv.com:7777/adalet/adalet123/50462
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Gostei Gospel TV SP
-http://dinamikiptv.com:7777/adalet/adalet123/50464
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com H2 HD
-http://dinamikiptv.com:7777/adalet/adalet123/50465
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com H2 HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16483
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com H2 SD
-http://dinamikiptv.com:7777/adalet/adalet123/50466
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO 2 HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11350
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO 2 HD
-http://dinamikiptv.com:7777/adalet/adalet123/50630
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO 2 HD
-http://uruguayiptv.com:25461/12345678/12345678/11350
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO 2 HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6121
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO FAMILY
-http://dinamikiptv.com:7777/adalet/adalet123/50631
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO FAMILY HD
-http://uruguayiptv.com:25461/12345678/12345678/11351
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO FAMILY HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11351
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO Family HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13622
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO HD
-http://uruguayiptv.com:25461/12345678/12345678/11352
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11352
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo Minas HD
+http://dinamikiptv.com:7777/adalet/adalet123/50450
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Globo RJ
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101030
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO PLUS HD
 http://dinamikiptv.com:7777/adalet/adalet123/50632
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO SIGNATURE HD
 http://dinamikiptv.com:7777/adalet/adalet123/50633
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO SIGNATURE HD
-http://uruguayiptv.com:25461/12345678/12345678/11354
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO SIGNATURE HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11354
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HBO Signature HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6119
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HISTORY 2 HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13445.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HISTORY 2 HD
-http://uruguayiptv.com:25461/12345678/12345678/11355
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HISTORY 2 HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11355
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HISTORY HD
-http://uruguayiptv.com:25461/12345678/12345678/11356
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com HISTORY HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11356
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Hbo 2 HD
 http://dinamikiptv.com:7777/adalet/adalet123/50467
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Hbo Family HD
 http://dinamikiptv.com:7777/adalet/adalet123/50469
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Hbo Family SD
-http://dinamikiptv.com:7777/adalet/adalet123/50470
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Hbo HD
-http://dinamikiptv.com:7777/adalet/adalet123/50471
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Hbo Plus HD
-http://dinamikiptv.com:7777/adalet/adalet123/50472
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Hbo Signature SD
-http://dinamikiptv.com:7777/adalet/adalet123/50475
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Id Discovery SD
-http://dinamikiptv.com:7777/adalet/adalet123/50479
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Hbo Plus SD
+http://dinamikiptv.com:7777/adalet/adalet123/50473
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com LADY NIGTH
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38269
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com LARGADOS E PELADOS
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38256
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com LIGA DA JUSTIÇA
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38621
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MAIS GLOBOSAT HD
-http://uruguayiptv.com:25461/12345678/12345678/11358
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MAIS GLOBOSAT HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11358
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MARVEL DC
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37234
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MAX HD
-http://uruguayiptv.com:25461/12345678/12345678/11359
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MAX HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11359
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MAX PRIME HD
-http://uruguayiptv.com:25461/12345678/12345678/11360
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MAX PRIME HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11360
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101005
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MEDABOTS
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37306
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MEGAMAN
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37866
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MTV HD
-http://dinamikiptv.com:7777/adalet/adalet123/50492
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MEGAPIX HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101002
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MTV
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101001
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MTV SD
 http://dinamikiptv.com:7777/adalet/adalet123/50493
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MULTISHOW HD
-http://uruguayiptv.com:25461/12345678/12345678/11364
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MULTISHOW HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11364
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com MULTISHOW [2K]
-http://dinamikiptv.com:7777/adalet/adalet123/50635
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Max Prime SD
-http://dinamikiptv.com:7777/adalet/adalet123/50485
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Max Up HD
-http://dinamikiptv.com:7777/adalet/adalet123/50487
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Megapix
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44105
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Megapix HD
-http://dinamikiptv.com:7777/adalet/adalet123/50489
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101000
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Multishow TV HD VIP BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6116
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NAT GEO KIDS HD
-http://uruguayiptv.com:25461/12345678/12345678/11365
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NAT GEO KIDS HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11365
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NAT GEO WILD HD
-http://uruguayiptv.com:25461/12345678/12345678/11366
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NAT GEO WILD HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11366
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NATGEO WILD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13451.m3u8
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NATGEO WILD HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100997
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NATIONAL GEOGRAPHIC HD
-http://uruguayiptv.com:25461/12345678/12345678/11367
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NATIONAL GEOGRAPHIC HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11367
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NICK JR HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11368
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NICK JR HD
-http://uruguayiptv.com:25461/12345678/12345678/11368
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com NICKELODEON HD
-http://uruguayiptv.com:25461/12345678/12345678/11369
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100996
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Natgeo Kids HD
 http://dinamikiptv.com:7777/adalet/adalet123/50497
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Natgeo SD
 http://dinamikiptv.com:7777/adalet/adalet123/50499
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Nick Jr HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16467
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Nick Jr SD
-http://dinamikiptv.com:7777/adalet/adalet123/50504
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com O MÁSCARA
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38255
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com OC UM ESTRANHO NO PARAÍSO
@@ -403,226 +193,79 @@ http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37214
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37862
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com OS JOVENS TITÃS
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38247
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PARAMOUNT HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11371
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PARAMOUNT HD
-http://uruguayiptv.com:25461/12345678/12345678/11371
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 1 HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11373
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 1 HD
-http://uruguayiptv.com:25461/12345678/12345678/11373
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 2 [2k]
-http://dinamikiptv.com:7777/adalet/adalet123/50636
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 4 [2K]
 http://dinamikiptv.com:7777/adalet/adalet123/50638
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 6 HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11375
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 6 [FHD]
-http://dinamikiptv.com:7777/adalet/adalet123/50640
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 7 HD
-http://uruguayiptv.com:25461/12345678/12345678/11376
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 8 HD
-http://uruguayiptv.com:25461/12345678/12345678/11377
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com PREMIERE 5 HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100986
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Paramount HD
 http://dinamikiptv.com:7777/adalet/adalet123/50508
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Paramount SD
-http://dinamikiptv.com:7777/adalet/adalet123/50509
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Pr
 http://dinamikiptv.com:7777/adalet/adalet123/50588
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Premiere 2 HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44061
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Premiere 3 HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44062
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Premiere 4 HD
-http://dinamikiptv.com:7777/adalet/adalet123/50512
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Premiere 6 HD
-http://dinamikiptv.com:7777/adalet/adalet123/50514
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Premiere 6 HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/44065
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com RECORD HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11379
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com RECORD HD
-http://uruguayiptv.com:25461/12345678/12345678/11379
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com RECORD HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13456.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com RECORD NEWS
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13457.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com RECORD NEWS HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11380
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com RECORD NEWS HD
-http://uruguayiptv.com:25461/12345678/12345678/11380
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Record News BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13608
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Record News SD
-http://dinamikiptv.com:7777/adalet/adalet123/50523
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Record TV BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13609
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Rede TV HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6110
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Rede New
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100982
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Rádio Jornal
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SBT
-http://dinamikiptv.com:7777/adalet/adalet123/50643
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SONY HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13458.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SPACE HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11386
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SPACE HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13459.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SPACE HD
-http://uruguayiptv.com:25461/12345678/12345678/11386
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SPace HD
-http://dinamikiptv.com:7777/adalet/adalet123/50539
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SPace SD
-http://dinamikiptv.com:7777/adalet/adalet123/50540
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com STATION 19
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38343
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com STB NORESTE HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13462.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SYFY HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11390
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Sbt Cidade Verde HD
-http://dinamikiptv.com:7777/adalet/adalet123/50532
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Sbt SP
-http://dinamikiptv.com:7777/adalet/adalet123/50535
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Sony SD
-http://dinamikiptv.com:7777/adalet/adalet123/50538
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Studio Universal HD
-http://dinamikiptv.com:7777/adalet/adalet123/50547
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Studio Universal SD
-http://dinamikiptv.com:7777/adalet/adalet123/50548
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com SyFy BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16457
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Syfy HD
-http://dinamikiptv.com:7777/adalet/adalet123/50549
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Syfy SD
-http://dinamikiptv.com:7777/adalet/adalet123/50550
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com STUDIO UNIVERSAL HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100970
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TAZ MANIA
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37213
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TBS HD
-http://uruguayiptv.com:25461/12345678/12345678/11391
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TCM BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6105
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TCM HD
 https://live.tcm10.com.br/tcm10.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TCM HD
-http://uruguayiptv.com:25461/12345678/12345678/11392
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TCM HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11392
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TEEN WOLF
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37220
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TELECINE ACTION HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11393
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TELECINE PIPOCA HD
-http://uruguayiptv.com:25461/12345678/12345678/11396
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TELECINE PIPOCA HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11396
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TELECINE PREMIUM HD
-http://uruguayiptv.com:25461/12345678/12345678/11397
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TELECINE PREMIUM [2K]
-http://dinamikiptv.com:7777/adalet/adalet123/50651
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100967
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com THE 100
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37216
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TIMAO E PUMBA
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/38276
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TLC [2K]
 http://dinamikiptv.com:7777/adalet/adalet123/50652
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TNT HD
-http://uruguayiptv.com:25461/12345678/12345678/11400
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TNT HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11400
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TNT HD BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13592
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TNT SERIES HD
-http://uruguayiptv.com:25461/12345678/12345678/11401
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TNT SERIES HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13469.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TNT SERIES HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11401
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TOONCAST HD
-http://uruguayiptv.com:25461/12345678/12345678/11402
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TOONCAST HD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13470.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TOONCAST HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11402
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TRAVEL BOX HD
-http://uruguayiptv.com:25461/12345678/12345678/11403
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TRAVEL BOX HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11403
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Aparecida SD
-http://dinamikiptv.com:7777/adalet/adalet123/50574
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Brasil Df
-http://dinamikiptv.com:7777/adalet/adalet123/50575
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Caruaru Pe
-http://dinamikiptv.com:7777/adalet/adalet123/50577
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Cidade VerdeSbt Pi
 http://dinamikiptv.com:7777/adalet/adalet123/50578
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Diario BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6091
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV EparanaCultura Pr
-http://dinamikiptv.com:7777/adalet/adalet123/50579
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV GIDEOES SD
 https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.m3u8
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Gazeta
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Ra Tim Bum SD
-http://dinamikiptv.com:7777/adalet/adalet123/50586
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TVci Pr
 http://dinamikiptv.com:7777/adalet/adalet123/50589
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Tbs HD
-http://dinamikiptv.com:7777/adalet/adalet123/50551
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Tbs SD
-http://dinamikiptv.com:7777/adalet/adalet123/50552
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Tcm HD
 http://dinamikiptv.com:7777/adalet/adalet123/50553
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Tcm SD
 http://dinamikiptv.com:7777/adalet/adalet123/50554
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Action SD
-http://dinamikiptv.com:7777/adalet/adalet123/50556
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Cult HD
-http://dinamikiptv.com:7777/adalet/adalet123/50557
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Cult SD
-http://dinamikiptv.com:7777/adalet/adalet123/50558
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Premium SD
-http://dinamikiptv.com:7777/adalet/adalet123/50563
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Cult
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100966
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Fun
+http://sharkiptvpro.live:80/Ian1234/Ian1234/101085
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Pipoca
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100963
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Telecine Touch
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100960
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Tlc SD
 http://dinamikiptv.com:7777/adalet/adalet123/50567
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Tooncast BR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6096
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com UNIVERSAL CHANNEL HD
-http://uruguayiptv.com:25461/12345678/12345678/11409
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Tnt Series SD
+http://dinamikiptv.com:7777/adalet/adalet123/50571
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com VIKINGS
 http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37222
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com VIVA HD
-http://uruguayiptv.com:25461/12345678/12345678/11411
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com VIVA HD
-http://uruguayiptv.com:25461/miguel2019/miguel2019/11411
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Viva
-http://dragoniptv.club:8080/day15/day15/19482
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Viva Web TV
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com WARNER
-http://dragoniptv.club:8080/day15/day15/7991
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com WARNER CHANNEL [2K]
-http://dinamikiptv.com:7777/adalet/adalet123/50657
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com WARNER HD
-http://uruguayiptv.com:25461/12345678/12345678/11412
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Warner Channel HD
-http://dragoniptv.club:8080/day15/day15/19446
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Woohoo TV
-http://dragoniptv.club:8080/day15/day15/19430
+#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com WOOHOO HD
+http://sharkiptvpro.live:80/Ian1234/Ian1234/100951
 #EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com Yeeaah!
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Capital Lucelia
-http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
-#EXTINF:0 tvg-country="brazil"tvg-logo=""group-title="Undefined",alliptvlinks.com TV Metropolitana Rio
-https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com Music Choice: Brazilian Pop
-http://localdblagent.club:8080/live/Carlos1/Carlos1/12178.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com Rede Super (Brazil)
-https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com Transamerica TV Brazil
-http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
-
+#EXTINF:-1,alliptvlinks.com BR
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108912
+#EXTINF:-1,alliptvlinks.com BR FERNSEHEN
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1,alliptvlinks.com BR FERNSEHEN HD
+http://c2.abcnew.site:8880/XHCN5VJgcs/h3B3e8NrZb/29132
+#EXTINF:-1,alliptvlinks.com ESPN BR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16502
+#EXTINF:-1,alliptvlinks.com ESPN Brasil HD BR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13633
+#EXTINF:-1,alliptvlinks.com ESPN HD BR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13634
