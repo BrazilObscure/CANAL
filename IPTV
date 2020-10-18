@@ -1,0 +1,486 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Canal do Cliente" tvg-logo="https://i.imgur.com/VCS4F0Y.jpg" group-title="Canais Abertos",Canal do Cliente
+http://svrhost.club/GHLXHTY2/MD91SSH7/10636?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 12" tvg-logo="https://i.ibb.co/PcxMdSf/logo-a-fazenda.jpg" group-title="Canais Abertos",A Fazenda 12
+http://svrhost.club/GHLXHTY2/MD91SSH7/15992?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 12*" tvg-logo="https://i.ibb.co/PcxMdSf/logo-a-fazenda.jpg" group-title="Canais Abertos",A Fazenda 12*
+http://svrhost.club/GHLXHTY2/MD91SSH7/16058?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Ambiência - Natureza FHD" tvg-logo="https://imgur.com/H5HDbDq.jpg" group-title="Canais Abertos",Ambiência - Natureza FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16063?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Ambiência - Lareira FHD" tvg-logo="https://imgur.com/RpZhlmW.jpg" group-title="Canais Abertos",Ambiência - Lareira FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16062?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Ambiência - Vida Marinha FHD" tvg-logo="https://imgur.com/IPKHZwb.jpg" group-title="Canais Abertos",Ambiência - Vida Marinha FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16061?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil FHD" tvg-logo="https://imgur.com/9nVg9CK.jpg" group-title="Canais Abertos",TV Brasil FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16284?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo
+http://svrhost.club/GHLXHTY2/MD91SSH7/1873?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo *" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo *
+http://svrhost.club/GHLXHTY2/MD91SSH7/10794?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1442?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo HD *" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/9782?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo FHD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/12609?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo +FHD (H265)" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/14943?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo TV Tribuna Santos" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo TV Tribuna Santos
+http://svrhost.club/GHLXHTY2/MD91SSH7/15255?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo EPTV São Carlos" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo EPTV São Carlos
+http://svrhost.club/GHLXHTY2/MD91SSH7/10976?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="SP - Globo EPTV Campinas" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo EPTV Campinas
+http://svrhost.club/GHLXHTY2/MD91SSH7/1447?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="SP - Globo EPTV Campinas*" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo EPTV Campinas*
+http://svrhost.club/GHLXHTY2/MD91SSH7/5268?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="SP - Globo EPTV Campinas HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo EPTV Campinas HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/2609?tkn=1602999601
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="SP - Globo TV Vanguarda" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo TV Vanguarda
+http://svrhost.club/GHLXHTY2/MD91SSH7/3155?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo EPTV R. Preto" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo EPTV R. Preto
+http://svrhost.club/GHLXHTY2/MD91SSH7/3048?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="SP - Globo EPTV R. Preto*" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo EPTV R. Preto*
+http://svrhost.club/GHLXHTY2/MD91SSH7/5238?tkn=1602999601
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="SP - Globo EPTV R. Preto +FHD (H265)" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo EPTV R. Preto +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/14944?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="SP - Globo TV TEM Sorocaba" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo TV TEM Sorocaba
+http://svrhost.club/GHLXHTY2/MD91SSH7/5226?tkn=1602999601
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="SP - Globo TV Tem Bauru" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SP - Globo TV Tem Bauru
+http://svrhost.club/GHLXHTY2/MD91SSH7/1783?tkn=1602999601
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="RJ - Globo TV Rio Sul" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RJ - Globo TV Rio Sul
+http://svrhost.club/GHLXHTY2/MD91SSH7/8104?tkn=1602999601
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="RJ - Globo" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RJ - Globo
+http://svrhost.club/GHLXHTY2/MD91SSH7/1785?tkn=1602999601
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="RJ - Globo HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RJ - Globo HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1955?tkn=1602999601
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="RJ - Globo HD *" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RJ - Globo HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/181?tkn=1602999601
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="SC - Globo NSC Floripa" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SC - Globo NSC Floripa
+http://svrhost.club/GHLXHTY2/MD91SSH7/12029?tkn=1602999601
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="SC - Globo NSC Floripa HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SC - Globo NSC Floripa HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/12468?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF - Globo  Brasilia" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",DF - Globo  Brasilia
+http://svrhost.club/GHLXHTY2/MD91SSH7/1780?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF - Globo Brasilia HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",DF - Globo Brasilia HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5232?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RS - Globo RBS TV Porto Alegre" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RS - Globo RBS TV Porto Alegre
+http://svrhost.club/GHLXHTY2/MD91SSH7/1827?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RS - Globo RBS TV Porto Alegre HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RS - Globo RBS TV Porto Alegre HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3311?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="RS - Globo Caxias do Sul HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RS - Globo Caxias do Sul HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16064?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="RS - Globo Caxias do Sul FHD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RS - Globo Caxias do Sul FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16065?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="RS - Globo Pelotas HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RS - Globo Pelotas HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16066?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="RS - Globo Pelotas FHD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",RS - Globo Pelotas FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16067?tkn=1602999601
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="PR - Globo RPC  Curitiba" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",PR - Globo RPC  Curitiba
+http://svrhost.club/GHLXHTY2/MD91SSH7/3089?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="PR - Globo RPC Foz do Iguaçu HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",PR - Globo RPC Foz do Iguaçu HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16090?tkn=1602999601
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="PR - Globo RPC Foz do Iguaçu FHD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",PR - Globo RPC Foz do Iguaçu FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16089?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="PB - Globo HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",PB - Globo HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/12656?tkn=1602999601
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="MG - Globo Minas" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",MG - Globo Minas
+http://svrhost.club/GHLXHTY2/MD91SSH7/1781?tkn=1602999601
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="MG - Globo Minas HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",MG - Globo Minas HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1440?tkn=1602999601
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="MG - Globo EPTV Sul de Minas HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",MG - Globo EPTV Sul de Minas HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/14954?tkn=1602999601
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="MG - Globo EPTV Sul de Minas FHD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",MG - Globo EPTV Sul de Minas FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/14955?tkn=1602999601
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="AM - Globo Rede Amazânica" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",AM - Globo Rede Amazânica
+http://svrhost.club/GHLXHTY2/MD91SSH7/5228?tkn=1602999601
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="PA - Globo TV Liberal Belem" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",PA - Globo TV Liberal Belem
+http://svrhost.club/GHLXHTY2/MD91SSH7/1453?tkn=1602999601
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="SE - Globo TV Sergipe HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",SE - Globo TV Sergipe HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5205?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",BA - Globo TV Santa Cruz
+http://svrhost.club/GHLXHTY2/MD91SSH7/8101?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Subae HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",BA - Globo TV Subae HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10983?tkn=1602999601
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE - Globo TV Verdes Mares Fortaleza" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",CE - Globo TV Verdes Mares Fortaleza
+http://svrhost.club/GHLXHTY2/MD91SSH7/5221?tkn=1602999601
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE - Globo TV Verdes Mares Fortaleza *" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",CE - Globo TV Verdes Mares Fortaleza *
+http://svrhost.club/GHLXHTY2/MD91SSH7/8136?tkn=1602999601
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE - Globo TV Verdes Mares Fortaleza HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",CE - Globo TV Verdes Mares Fortaleza HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15498?tkn=1602999601
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP HD" tvg-logo="https://i.imgur.com/0BL7HCM.png" group-title="Canais Abertos",TV Gazeta SP HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/662?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="PE - Globo TV Asa Branca HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",PE - Globo TV Asa Branca HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/12513?tkn=1602999601
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="PE - Globo Nordeste" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",PE - Globo Nordeste
+http://svrhost.club/GHLXHTY2/MD91SSH7/1450?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",Globo Inter TV Cabugi
+http://svrhost.club/GHLXHTY2/MD91SSH7/10975?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO - Globo Anhanguera" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",GO - Globo Anhanguera
+http://svrhost.club/GHLXHTY2/MD91SSH7/1782?tkn=1602999601
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO - Globo Anhanguera HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",GO - Globo Anhanguera HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1439?tkn=1602999601
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="MT - Globo TV C.  America Cuiabá" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",MT - Globo TV C.  America Cuiabá
+http://svrhost.club/GHLXHTY2/MD91SSH7/5227?tkn=1602999601
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="ES - Globo TV Gazeta Sul" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",ES - Globo TV Gazeta Sul
+http://svrhost.club/GHLXHTY2/MD91SSH7/12536?tkn=1602999601
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="ES - Globo TV Gazeta Sul HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",ES - Globo TV Gazeta Sul HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/12537?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="ES - Globo Vitória" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",ES - Globo Vitória
+http://svrhost.club/GHLXHTY2/MD91SSH7/16093?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="ES - Globo Vitória HD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",ES - Globo Vitória HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16092?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="ES - Globo Vitória FHD" tvg-logo="https://imgur.com/v3aWl5d.png" group-title="Canais Globo",ES - Globo Vitória FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/16091?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Super Cine 1 HD" tvg-logo="https://imgur.com/fgTZ2ZJ.png" group-title="Filmes e Séries",Super Cine 1 HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15319?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Super Cine 2 HD" tvg-logo="https://imgur.com/I6DwS2A.png" group-title="Filmes e Séries",Super Cine 2 HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15320?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Super Cine 3 HD" tvg-logo="https://imgur.com/x4NWorG.png" group-title="Filmes e Séries",Super Cine 3 HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15321?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Super Cine 4 HD" tvg-logo="https://imgur.com/TbFHPsk.png" group-title="Filmes e Séries",Super Cine 4 HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15322?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Super Cine 5 HD" tvg-logo="https://imgur.com/3kwpqil.png" group-title="Filmes e Séries",Super Cine 5 HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15323?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="UNIVESP TV " tvg-logo="https://imgur.com/L7uUJRT.png" group-title="Canais Abertos",UNIVESP TV 
+http://svrhost.club/GHLXHTY2/MD91SSH7/15253?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário Fortaleza" tvg-logo="http://i.imgur.com/TiZvX9k.jpg" group-title="Canais Abertos",TV Diário Fortaleza
+http://svrhost.club/GHLXHTY2/MD91SSH7/12035?tkn=1602999601
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="Tv Escola" tvg-logo="https://imgur.com/9ABQjnt.png" group-title="Canais Abertos",Tv Escola
+http://svrhost.club/GHLXHTY2/MD91SSH7/15254?tkn=1602999601
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-logo="https://imgur.com/wydyOaI.png" group-title="Canais Abertos",Canal do Boi
+http://svrhost.club/GHLXHTY2/MD91SSH7/10532?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band
+http://svrhost.club/GHLXHTY2/MD91SSH7/1908?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band *" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band *
+http://svrhost.club/GHLXHTY2/MD91SSH7/132?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band HD" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1978?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band FHD" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3266?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",BAND SP
+http://svrhost.club/GHLXHTY2/MD91SSH7/9786?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band SP HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/9787?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Campinas HD" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band Campinas HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/204?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Bahia" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band Bahia
+http://svrhost.club/GHLXHTY2/MD91SSH7/10980?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Goiania +FHD (H265)" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band Goiania +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10990?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band RS HD" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band RS HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10993?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Sergipe HD" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band Sergipe HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10999?tkn=1602999601
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band TV Taroba Parana HD" tvg-logo="https://imgur.com/qjG86fJ.png" group-title="Canais Abertos",Band TV Taroba Parana HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10996?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT
+http://svrhost.club/GHLXHTY2/MD91SSH7/1820?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT *" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT *
+http://svrhost.club/GHLXHTY2/MD91SSH7/44?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1932?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD *" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/158?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Parana HD" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT Parana HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10994?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT RS HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10992?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Serra Dourada +FHD (H265)" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT Serra Dourada +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10989?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - TV Alterosa Minas HD" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT - TV Alterosa Minas HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10986?tkn=1602999601
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - TV Aratu Bahia HD" tvg-logo="https://imgur.com/kkHNueD.png" group-title="Canais Abertos",SBT - TV Aratu Bahia HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10981?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record
+http://svrhost.club/GHLXHTY2/MD91SSH7/1825?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1934?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record RS HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record RS HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/7397?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record MG HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record MG HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5466?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record RJ HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record RJ HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5469?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record SP" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record SP
+http://svrhost.club/GHLXHTY2/MD91SSH7/12593?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record SP HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record SP HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10967?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record Brasilia HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record Brasilia HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15497?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record GO HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record GO HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10991?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record GO +FHD (H265)" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record GO +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10988?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record PR HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record PR HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10995?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record RS Porto Alegre HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record RS Porto Alegre HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/11001?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record Sao Jose Do Rio Preto  HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record Sao Jose Do Rio Preto  HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10984?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record SE HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record SE HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10998?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record TV Belem HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record TV Belem HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10979?tkn=1602999601
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Rede Record TV Cabralia Bahia HD" tvg-logo="https://imgur.com/ofeXiiR.png" group-title="Canais Abertos",Rede Record TV Cabralia Bahia HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/10982?tkn=1602999601
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://imgur.com/zec7d7Z.png" group-title="Canais Abertos",Rede TV
+http://svrhost.club/GHLXHTY2/MD91SSH7/1823?tkn=1602999601
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV *" tvg-logo="https://imgur.com/zec7d7Z.png" group-title="Canais Abertos",Rede TV *
+http://svrhost.club/GHLXHTY2/MD91SSH7/47?tkn=1602999601
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV HD" tvg-logo="https://imgur.com/zec7d7Z.png" group-title="Canais Abertos",Rede TV HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1933?tkn=1602999601
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV HD *" tvg-logo="https://imgur.com/zec7d7Z.png" group-title="Canais Abertos",Rede TV HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/159?tkn=1602999601
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV +FHD (h265)" tvg-logo="https://imgur.com/zec7d7Z.png" group-title="Canais Abertos",Rede TV +FHD (h265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10267?tkn=1602999601
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/uBLC2vh.png" group-title="Canais Abertos",Rede Brasil
+http://svrhost.club/GHLXHTY2/MD91SSH7/48?tkn=1602999601
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil" tvg-logo="https://imgur.com/Y8ssjBX.png" group-title="Canais Abertos",Canal Brasil
+http://svrhost.club/GHLXHTY2/MD91SSH7/1904?tkn=1602999601
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://imgur.com/Y8ssjBX.png" group-title="Canais Abertos",Canal Brasil FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5403?tkn=1602999601
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil +FHD (h265)" tvg-logo="https://imgur.com/Y8ssjBX.png" group-title="Canais Abertos",Canal Brasil +FHD (h265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10358?tkn=1602999601
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura" tvg-logo="https://imgur.com/AnuxWcv.png" group-title="Canais Abertos",Cultura
+http://svrhost.club/GHLXHTY2/MD91SSH7/1794?tkn=1602999601
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://imgur.com/AnuxWcv.png" group-title="Canais Abertos",Cultura HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5275?tkn=1602999601
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://imgur.com/jzpNqsY.png" group-title="Canais Abertos",Terra Viva
+http://svrhost.club/GHLXHTY2/MD91SSH7/1802?tkn=1602999601
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://imgur.com/ZQ37MDT.png" group-title="Canais Abertos",Futura
+http://svrhost.club/GHLXHTY2/MD91SSH7/1875?tkn=1602999601
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura *" tvg-logo="https://imgur.com/ZQ37MDT.png" group-title="Canais Abertos",Futura *
+http://svrhost.club/GHLXHTY2/MD91SSH7/10970?tkn=1602999601
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="https://imgur.com/ZQ37MDT.png" group-title="Canais Abertos",Futura HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3335?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Faroeste 24H Ultra HD" tvg-logo="https://imgur.com/zgUzOG9.png" group-title="Filmes e Séries 24H",Cine Faroeste 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/11379?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="https://imgur.com/fP9SNrP.png" group-title="Filmes e Séries 24H",Cine Guerra 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/11214?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="https://imgur.com/jkcWRt1.png" group-title="Filmes e Séries 24H",Cine Fiction 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/11077?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="https://imgur.com/U0xxlhl.png" group-title="Filmes e Séries 24H",Cine Drama 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5849?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Aventura 24H Ultra HD" tvg-logo="https://imgur.com/U3aBfTl.png" group-title="Filmes e Séries 24H",Cine Aventura 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5437?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action 24H Ultra HD" tvg-logo="https://imgur.com/NI298L1.png" group-title="Filmes e Séries 24H",Cine Action 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3473?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="https://i.imgur.com/GbJ8bHf.png" group-title="Filmes e Séries 24H",Cine Fun 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3471?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine kids 24H Ultra HD" tvg-logo="https://imgur.com/IOdqoZW.png" group-title="Filmes e Séries 24H",Cine kids 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3470?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="https://i.imgur.com/mEoGZNs.png" group-title="Filmes e Séries 24H",Cine Horror 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3469?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H" tvg-logo="https://imgur.com/B2eBfie.png" group-title="Filmes e Séries 24H",Cine Family 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/3472?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Cine Nacionais 24H" tvg-logo="https://i.imgur.com/ag0no0I.png" group-title="Filmes e Séries 24H",Cine Nacionais 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/7174?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL & DC 24H" tvg-logo="https://i.imgur.com/hvvIPP8.png" group-title="Filmes e Séries 24H",MARVEL & DC 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/9769?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Friends 24H Ultra HD" tvg-logo="https://imgur.com/JQLDzS1.png" group-title="Filmes e Séries 24H",Friends 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/11346?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Eu a patroa e as crianças 24H Ultra HD" tvg-logo="https://i.imgur.com/q81OPmz.png" group-title="Filmes e Séries 24H",Eu a patroa e as crianças 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/11345?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="ThunderCats 2011 24H Ultra HD" tvg-logo="https://i.imgur.com/KLOEzF3.jpg" group-title="Filmes e Séries 24H",ThunderCats 2011 24H Ultra HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/12460?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 24H" tvg-logo="https://i.imgur.com/ZjFDSiU.png" group-title="Filmes e Séries 24H",Chapolin 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/13928?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="https://i.imgur.com/ZjFDSiU.png" group-title="Filmes e Séries 24H",Chapolin 2 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/14158?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Os 3 patetas 24H" tvg-logo="https://imgur.com/4LQJaUA.png" group-title="Filmes e Séries 24H",Os 3 patetas 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/13602?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco  24H" tvg-logo="https://i.imgur.com/84d7mrL.png" group-title="Filmes e Séries 24H",Um Maluco No Pedaco  24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/10170?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="https://i.imgur.com/H551cWB.jpg" group-title="Filmes e Séries 24H",MR. Bean 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/3653?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="https://i.imgur.com/KgO1oIC.png" group-title="Filmes e Séries 24H",Canal CSI 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/3646?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="https://imgur.com/LVZcGvG.png" group-title="Filmes e Séries 24H",Como eu Conheci a Sua Mae  24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/3647?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House 1 24H" tvg-logo="https://imgur.com/IGMGqJz.png" group-title="Filmes e Séries 24H",Dr. House 1 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/3650?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House 2 24H" tvg-logo="https://imgur.com/IGMGqJz.png" group-title="Filmes e Séries 24H",Dr. House 2 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/14557?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H" tvg-logo="https://i.imgur.com/IhyMTkZ.png" group-title="Filmes e Séries 24H",The Big Bang Theory 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/3652?tkn=1602999601
+#EXTINF:-1 tvg-id="" tvg-name="Two And a Half Man 24H" tvg-logo="https://i.imgur.com/43EJAZG.jpg" group-title="Filmes e Séries 24H",Two And a Half Man 24H
+http://svrhost.club/GHLXHTY2/MD91SSH7/3649?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium
+http://svrhost.club/GHLXHTY2/MD91SSH7/1804?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium *" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium *
+http://svrhost.club/GHLXHTY2/MD91SSH7/1519?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium - Legendado" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/11511?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium HD" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1923?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium HD *" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/149?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium FHD" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3221?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium FHD - Legendado" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14537?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Tc Premium +FHD (H265)" tvg-logo="https://imgur.com/wGHowj5.png" group-title="Filmes e Séries",Tc Premium +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10310?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action
+http://svrhost.club/GHLXHTY2/MD91SSH7/1808?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action *" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action *
+http://svrhost.club/GHLXHTY2/MD91SSH7/1511?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action - Legendado" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/11512?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action HD" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1926?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action HD *" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/152?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action FHD" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3224?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action FHD - Legendado" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14536?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Tc Action +FHD (H265)" tvg-logo="https://imgur.com/pvonj1a.png" group-title="Filmes e Séries",Tc Action +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10314?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch
+http://svrhost.club/GHLXHTY2/MD91SSH7/1803?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch *" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch *
+http://svrhost.club/GHLXHTY2/MD91SSH7/1521?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch - Legendado" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/11507?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch HD" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1922?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch HD *" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/148?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch FHD" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3220?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch FHD - Legendado" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14540?tkn=1602999601
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Tc Touch +FHD (H265)" tvg-logo="https://imgur.com/FIvOd3F.png" group-title="Filmes e Séries",Tc Touch +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10309?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca
+http://svrhost.club/GHLXHTY2/MD91SSH7/1805?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca *" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca *
+http://svrhost.club/GHLXHTY2/MD91SSH7/1517?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca - Legendado" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/11508?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca HD" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1924?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca HD *" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/150?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca FHD" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3222?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca FHD - Legendado" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14539?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Tc Pipoca +FHD (H265)" tvg-logo="https://imgur.com/4lVHuui.png" group-title="Filmes e Séries",Tc Pipoca +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10311?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun
+http://svrhost.club/GHLXHTY2/MD91SSH7/1806?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun *" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun *
+http://svrhost.club/GHLXHTY2/MD91SSH7/1515?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun - Legendado" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/11509?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun HD" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1925?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun HD *" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/151?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun FHD" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3223?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun FHD - Legendado" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14538?tkn=1602999601
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Tc Fun +FHD (H265)" tvg-logo="https://imgur.com/BFewxM7.png" group-title="Filmes e Séries",Tc Fun +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10312?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Tc Cult" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",Tc Cult
+http://svrhost.club/GHLXHTY2/MD91SSH7/1807?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Tc Cult *" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",Tc Cult *
+http://svrhost.club/GHLXHTY2/MD91SSH7/1513?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Tc Cult - Legendado" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",Tc Cult - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/11513?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult HD" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",TC Cult HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/2024?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Tc Cult HD *" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",Tc Cult HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/1165?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Tc Cult  FHD" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",Tc Cult  FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15876?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Tc Cult  FHD - Legendado" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",Tc Cult  FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14535?tkn=1602999601
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult +FHD (H265)" tvg-logo="https://imgur.com/Zqj6n6l.png" group-title="Filmes e Séries",TC Cult +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10313?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="https://imgur.com/USy5NgP.png" group-title="Filmes e Séries",HBO
+http://svrhost.club/GHLXHTY2/MD91SSH7/1868?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO *" tvg-logo="https://imgur.com/USy5NgP.png" group-title="Filmes e Séries",HBO *
+http://svrhost.club/GHLXHTY2/MD91SSH7/92?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://imgur.com/USy5NgP.png" group-title="Filmes e Séries",HBO HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1950?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD *" tvg-logo="https://imgur.com/USy5NgP.png" group-title="Filmes e Séries",HBO HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/176?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://imgur.com/USy5NgP.png" group-title="Filmes e Séries",HBO FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3262?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD - Legendado" tvg-logo="https://imgur.com/USy5NgP.png" group-title="Filmes e Séries",HBO FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14533?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO +FHD (H265)" tvg-logo="https://imgur.com/USy5NgP.png" group-title="Filmes e Séries",HBO +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10333?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://imgur.com/pap79AV.png" group-title="Filmes e Séries",HBO 2
+http://svrhost.club/GHLXHTY2/MD91SSH7/1863?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 *" tvg-logo="https://imgur.com/pap79AV.png" group-title="Filmes e Séries",HBO 2 *
+http://svrhost.club/GHLXHTY2/MD91SSH7/87?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://imgur.com/pap79AV.png" group-title="Filmes e Séries",HBO 2 HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1952?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD *" tvg-logo="https://imgur.com/pap79AV.png" group-title="Filmes e Séries",HBO 2 HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/178?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://imgur.com/pap79AV.png" group-title="Filmes e Séries",HBO 2 FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/3263?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 +FHD (H265)" tvg-logo="https://imgur.com/pap79AV.png" group-title="Filmes e Séries",HBO 2 +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10329?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",HBO Plus
+http://svrhost.club/GHLXHTY2/MD91SSH7/11015?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="Hbo Plus *" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",Hbo Plus *
+http://svrhost.club/GHLXHTY2/MD91SSH7/90?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus - Legendado" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",HBO Plus - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14541?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",HBO Plus HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1949?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD*" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",HBO Plus HD*
+http://svrhost.club/GHLXHTY2/MD91SSH7/175?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",HBO Plus FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5336?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD - Legendado" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",HBO Plus FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14542?tkn=1602999601
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus +FHD (H265)" tvg-logo="https://imgur.com/WGYPSmv.png" group-title="Filmes e Séries",HBO Plus +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10331?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="Hbo Family" tvg-logo="https://imgur.com/q9tJ7BP.png" group-title="Filmes e Séries",Hbo Family
+http://svrhost.club/GHLXHTY2/MD91SSH7/1867?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family *" tvg-logo="https://imgur.com/q9tJ7BP.png" group-title="Filmes e Séries",HBO Family *
+http://svrhost.club/GHLXHTY2/MD91SSH7/91?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://imgur.com/q9tJ7BP.png" group-title="Filmes e Séries",HBO Family HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1951?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://imgur.com/q9tJ7BP.png" group-title="Filmes e Séries",HBO Family FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5337?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family +FHD (H265)" tvg-logo="https://imgur.com/q9tJ7BP.png" group-title="Filmes e Séries",HBO Family +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10332?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="Hbo Signature" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",Hbo Signature
+http://svrhost.club/GHLXHTY2/MD91SSH7/1864?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="Hbo Signature *" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",Hbo Signature *
+http://svrhost.club/GHLXHTY2/MD91SSH7/88?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature - Legendado" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",HBO Signature - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14543?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",HBO Signature HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1948?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD *" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",HBO Signature HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/174?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",HBO Signature FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/5335?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD - Legendado" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",HBO Signature FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14544?tkn=1602999601
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature +FHD (H265)" tvg-logo="https://imgur.com/Jz67UiB.png" group-title="Filmes e Séries",HBO Signature +FHD (H265)
+http://svrhost.club/GHLXHTY2/MD91SSH7/10330?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi
+http://svrhost.club/GHLXHTY2/MD91SSH7/1857?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi *" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi *
+http://svrhost.club/GHLXHTY2/MD91SSH7/81?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - Legendado" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14545?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi HD
+http://svrhost.club/GHLXHTY2/MD91SSH7/1158?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD *" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi HD *
+http://svrhost.club/GHLXHTY2/MD91SSH7/2031?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi FHD
+http://svrhost.club/GHLXHTY2/MD91SSH7/15877?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD - Legendado" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi FHD - Legendado
+http://svrhost.club/GHLXHTY2/MD91SSH7/14546?tkn=1602999601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi +FHD (H265)" tvg-logo="https://imgur.com/5aNFTQh.png" group-title="Filmes e Séries",HBO Mundi +FHD (H265)
