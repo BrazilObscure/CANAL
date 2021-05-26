@@ -1475,3 +1475,4 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/3744
 #EXTINF:-1 tvg-id="aande.br" tvg-name="Universal TV SD" tvg-logo="https://www.liebeurl.me/logos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://dnsl.me:80/Cristiano2021/2021cristiano/4335
+ 
